@@ -1,0 +1,37 @@
+
+.cadre{
+    border : 2px solid black; 
+    height: 500px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    background-color:bisque
+}
+
+.photo {
+    border : 5px solid black ; 
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+.desc{
+    border : 2px solid black;
+    height: 215px;
+    margin-left: 10px;
+}
+.desc p {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.pho{
+    border : 2px solid black ; 
+    width: 250px;
+    height: 250px;
+    
+}
+.but {
+    background-color: yellow;
+    font-weight: bold;
+}
